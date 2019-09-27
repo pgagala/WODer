@@ -1,0 +1,24 @@
+{
+  "name": "woder",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
+    "moment": ">=2.0.0",
+    "react-dom": "16.7.0-alpha.0",
+    "prop-types": "*",
+    "react-navigation": "3.9.1",
+    "react-native-paper": "2.2.8",
+    "react-native-sound": "0.10.12",
+    "react-native-elements": "1.1.0",
+    "react-native-wheel-pick": "1.0.9",
+    "react-native-popup-dialog": "0.18.2",
+    "react-native-touchable-scale": "2.0.0",
+    "react-native-wheel-scroll-picker": "0.2.4"
+  }
+}
