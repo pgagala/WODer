@@ -9,7 +9,7 @@ Simple react application (tested against IOS) with time mearumenet features:
 2) Intervals
 
 Tested and wrote using online tool expo - https://expo.io/
-There You can find that code as well and play around with it - https://snack.expo.io/@pawelangg/woder
+There You can find that code as well and play around with it - https://snack.expo.io/@pawelangg/woder (use phone as expo target device, web emulator sometimes doesn't work at all)
 
 Please bear in mind that is my first contact with FE technology so code isn't brilliant :).
 
